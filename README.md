@@ -1,4 +1,4 @@
-![My Created Output](https://photos.app.goo.gl/7SDoABkArSpcjPP59)
+![My Created Output](images/OUTPUT.png)
 
 
 # Dicee 🎲
